@@ -1,6 +1,6 @@
-# AXera-Pi Zero User Manual
+# AX615 User Manual
 
-[Web 预览](https://ax615dv201.readthedocs.io/en/latest/)
+[Web 预览](https://ax615dv201.readthedocs.io/zh-cn/latest/)
 
 ## 1. 项目背景
 

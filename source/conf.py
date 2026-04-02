@@ -68,3 +68,12 @@ source_suffix = ['.rst', '.md']
 # mermaid
 mermaid_output_format = 'raw'
 mermaid_version = 'latest'
+
+html_context = {
+    "display_github": True,
+    "github_user": "EXP-PRGM",
+    "github_repo": "AX615DV201",
+    "github_version": "main",
+    "conf_py_path": "/source/",
+    "github_url": "https://github.com/EXP-PRGM/AX615DV201",  # 自定义链接
+}
