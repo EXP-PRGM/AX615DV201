@@ -1,12 +1,12 @@
 # AXera-Pi Zero User Manual
 
-[Web 预览](https://axera-pi-zero-docs-cn.readthedocs.io/zh-cn/latest/index.html)
+[Web 预览](https://ax615dv201.readthedocs.io/en/latest/)
 
 ## 1. 项目背景
 
-**爱芯派Zero** (AXera-Pi Zero) 开发板使用手册开源维护项目
+**AX615** 开发板使用手册开源维护项目
 
-- 提供 爱芯派Zero 使用文档
+- 提供 AX615 使用文档
 - 方便社区开发者对文档进行共创
 
 ## 2. 本地运行指南
@@ -14,7 +14,7 @@
 ### 2.1 git clone
 
 ```bash
-git clone https://github.com/AXERA-TECH/axera-pi-zero-docs.git
+git clone https://github.com/EXP-PRGM/AX615DV201.git
 ```
 
 目录树如下:
